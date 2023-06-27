@@ -1,0 +1,7 @@
+BASE_URL = 'https://www.specialized.com/pl/en'
+BIKES_URL = 'https://www.specialized.com/pl/en/shop/sale/c/sale?q=%3Arelevance%3Aclearance%3Atrue%3Agroup%3ABikes&show=All'
+SALES_URL = 'https://www.specialized.com/pl/pl/shop/sale/c/sale?q=%3Arelevance%3Aclearance%3Atrue&show=All'
+SHOES_URL = 'https://www.specialized.com/pl/en/shop/shoes/c/shoes?show=All'
+HELMETS_URL = 'https://www.specialized.com/pl/en/shop/helmets/c/helmets?show=All'
+PEDALS_URL = 'https://www.specialized.com/pl/en/shop/equipment/bike-components/pedals/c/pedals?show=All'
+WHEELS_URL = 'https://www.specialized.com/pl/en/shop/equipment/bike-components/wheels/c/wheels?show=All'
